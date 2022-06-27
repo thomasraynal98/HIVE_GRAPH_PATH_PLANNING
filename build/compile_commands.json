@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/build",
+  "command": "/usr/bin/g++ -DOPENXLSX_STATIC_DEFINE -I/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/include -isystem /usr/local/include/OpenXLSX -isystem /usr/local/include/opencv4  -std=c++14 -pthread -L/usr/local/lib -g -std=gnu++17 -o CMakeFiles/GRAPH_ALGO.dir/software/main.cpp.o -c /home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/software/main.cpp",
+  "file": "/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/software/main.cpp"
+},
+{
+  "directory": "/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/build",
+  "command": "/usr/bin/g++ -DOPENXLSX_STATIC_DEFINE -I/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/include -isystem /usr/local/include/OpenXLSX -isystem /usr/local/include/opencv4  -std=c++14 -pthread -L/usr/local/lib -g -std=gnu++17 -o CMakeFiles/GRAPH_ALGO.dir/src/useful.cpp.o -c /home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/src/useful.cpp",
+  "file": "/home/tempo/Dev/HIVE_GRAPH_PATH_PLANNING/src/useful.cpp"
+}
+]
